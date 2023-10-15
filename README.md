@@ -5,4 +5,4 @@ The codes here are python codes to visualize the stabilities of several SCR cata
 
 ## Application of this code
 This code has been utilized in the following published paper:
-1. *Appl. Surf. Sci.* 2021, 552, 149462 (https://doi.org/10.1016/j.apsusc.2021.149462)
+1. D. Shin, M. H. Kim, and J. W. Han, *Appl. Surf. Sci.* 2021, 552, 149462 (https://doi.org/10.1016/j.apsusc.2021.149462)
