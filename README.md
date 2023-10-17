@@ -11,4 +11,4 @@ The image above shows that which structure among the considered four models is t
 
 ## Application of This Code
 This code has been utilized in the following published paper:
-1. D. Shin, M. H. Kim, and J. W. Han, *Appl. Surf. Sci.* 2021, 552, 149462 (https://doi.org/10.1016/j.apsusc.2021.149462)
+1. D. Shin, M. H. Kim, and J. W. Han, *Appl. Surf. Sci.* **2021**, 552, 149462 (https://doi.org/10.1016/j.apsusc.2021.149462)
