@@ -7,7 +7,7 @@ The codes here are python codes (Jupyter Notebook) to visualize the stabilities 
 
 image ref: *Appl. Surf. Sci.* **2021**, 552, 149462.
 
-The image above shows that which structure among the considered four models is thermodynamically the most favorable at a particular set of *T* and *p*<sub>i</sub>. The scientific details of this code can be found in the [paper](https://doi.org/10.1016/j.apsusc.2021.149462).
+The image above shows that which structure among the considered four models (*tetra*, *tetra-h*, *octa*, and *octa-h*) is thermodynamically the most favorable at a particular set of *T* and *p*<sub>i</sub>. The scientific details of this code can be found in the [paper](https://doi.org/10.1016/j.apsusc.2021.149462).
 
 ## Application of This Code
 This code has been utilized in the following published paper:
